@@ -7,6 +7,7 @@
 ### 👀 Glad to see you here! ![Profile View Counter](https://komarev.com/ghpvc/?username=xekven)
 
 I'm full-stack software engineer. I like programming and tough chellenges, as well as traveling and learning something new!
+
 As a software engineer, I thruly enjoy do things that make a difference to change the world! 
 
 - 👨‍💻 I’m currently working on something really cool;
@@ -21,4 +22,5 @@ As a software engineer, I thruly enjoy do things that make a difference to chang
 
 
 This github profile is private, so it's not used for commercial projects!
+
 No stats here ;(
