@@ -4,7 +4,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xekkv/)
 
-### 👀  Glad to see you here! ![Profile View Counter](https://komarev.com/ghpvc/?username=xekven)
+### 👀  Glad to see you here! 
+![Profile View Counter](https://komarev.com/ghpvc/?username=xekven)
 
 I'm full-stack software engineer. I like programming and tough chellenges, as well as traveling and learning something new!
 
